@@ -3,7 +3,6 @@
 
 <br>
 
-|----------------|---------------------------------------|
 | **Name**       | TaeYoung Kang (Noru-Kang)             |
 | **School**     | Chungang Univ                         |
 | **Student ID** | 20204885                              |
